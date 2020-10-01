@@ -1,9 +1,63 @@
 .img-1{
-  background-image: url('img1.3.jpg');
+  background-image: url('img1.1.jpg');
   height: 50vh;
 background-size: cover;
 border-bottom: rgba(194, 181, 181, 0.952) solid 6px;
 }
-/* *{
-  outline: black solid 1px;
-} */
+
+.bimg{
+  background-image: url('img-2.jpg');
+ height: 325px;
+ width: 550px;
+ background-repeat: no-repeat;
+ margin-left: 8vh;
+ 
+}
+
+.bimg-1{
+  background-image: url('img-4.webp');
+ height: 325px;
+ width: 550px;
+ background-repeat: no-repeat;
+ margin-left: 8vh;
+ 
+}
+
+.bimg-2{
+  background-image: url('img-6.webp');
+ height: 325px;
+ width: 550px;
+ background-repeat: no-repeat;
+ margin-left: 8vh;
+}
+
+.bimg-3{ background-image: url('img-3.jpg');
+  height: 325px;
+  width: 550px;
+  background-repeat: no-repeat;
+  
+}
+.bimg-4{background-image: url('img-7');
+ height: 325px;
+ width: 550px;
+ background-repeat: no-repeat;
+ 
+}
+.bimg-5{background-image: url('img-5.webp');
+  height: 325px;
+  width: 550px;
+  background-repeat: no-repeat;
+  
+}
+
+.opa{
+  opacity: .8;
+}
+
+.opa-1{
+  opacity: 0;
+}
+ 
+.card-height{
+  height: 323px;
+}
